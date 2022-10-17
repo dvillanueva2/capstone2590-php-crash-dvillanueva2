@@ -31,8 +31,9 @@
     // print 123 -> using echo is recommended. don't use this if I don't have to
     
     // print_r() - Print single values and arrays
-    // print_r('[1,2,3]');
-
+    print_r('[1,2,3]');
+    
+    //these are usually for debugging
     // var_dump() - Returns more info like data type and length
     // var_dump('Hello');
     // output to browser: string(5) "Hello"
@@ -46,4 +47,4 @@
 ?>
 
 <!-- Source Material: https://www.youtube.com/watch?app=desktop&v=BUCiSSyIGGU -->
-<!-- Continue at 23:35 -->
+
